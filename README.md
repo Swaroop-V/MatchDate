@@ -1,1 +1,1 @@
-This project is created using HTML, CSS and Bootstrap
+This is a dating website created using HTML, CSS and Bootstrap
